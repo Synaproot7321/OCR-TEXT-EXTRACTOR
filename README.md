@@ -40,6 +40,9 @@ To recognize and transcribe printed or handwritten text from batches of image fi
 
 Below is a sample of the OCR result shown directly over the input image, highlighting the recognized text areas:
 
-![OCR Output Sample](https://github.com/user-attachments/assets/c9589ea1-2979-42b0-a372-89495684f585)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c9589ea1-2979-42b0-a372-89495684f585" alt="OCR Output Sample" width="700"/>
+</p>
 
-> *This image shows how the algorithm detected and transcribed text from the original file.*
+<p align="center"><em>This image shows how the algorithm detected and transcribed text from the original file.</em></p>
+

@@ -1,12 +1,16 @@
 # 🔍 OCR-TEXT-EXTRACTOR
 
+<p align="justify">
 This project automates the extraction and transcription of text from multiple images using Optical Character Recognition (OCR). It processes all image files within a specified folder and compiles the results into an organized Excel (`.xlsx`) spreadsheet.
+</p>
 
 ---
 
 ## 🎯 Objective
 
+<p align="justify">
 To recognize and transcribe printed or handwritten text from batches of image files and save the extracted data in structured spreadsheet format using the **PaddleOCR** framework.
+</p>
 
 ---
 
@@ -46,3 +50,22 @@ Below is a sample of the OCR result shown directly over the input image, highlig
 
 <p align="center"><em>This image shows how the algorithm detected and transcribed text from the original file.</em></p>
 
+---
+
+## 📊 Impact
+
+The OCR-TEXT-EXTRACTOR project provides practical benefits in both industrial and administrative environments:
+
+- ⏱️ **Time-Saving**  
+  Automates the process of reading and transcribing large volumes of text from images, significantly reducing manual data entry time.
+
+- 🧾 **Improved Accuracy**  
+  Minimizes human error when copying information from printed or photographed documents.
+
+- 💼 **Document Digitization**  
+  Facilitates the transition from physical to digital records, improving storage, retrieval, and analysis.
+
+- ⚙️ **Scalable Solution**  
+  Can process multiple images in batches and generate structured outputs, making it adaptable for larger workflows.
+
+> This tool streamlines data extraction tasks and improves productivity in document-heavy environments like inventory management, logistics, or quality control.
